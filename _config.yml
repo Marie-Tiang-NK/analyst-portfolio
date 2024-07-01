@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Marie Tiang Nguyen-Khuong Business Data Analysis Portfolio
+email: mtiang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Marie Tiang Nguyen-Khuong's professional portfolio, offering learnings and insights into Business Analysis,
+Data Analytics, Data visualisation and in the future, Cybersecurity, Machine Learning and AI as well!
 twitter_username: username
-github_username: username
+github_username: Marie-Tiang-NK
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Marie Tiang Nguyen-Khuong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Lifelong learner, sharing insights into Business Analysis, Data Analytics and new technologies."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +69,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Marie-Tiang-NK/analyst-portfolio"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
