@@ -16,8 +16,8 @@
 title: Marie Tiang Nguyen-Khuong Business Data Analysis Portfolio
 email: mtiang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Marie Tiang Nguyen-Khuong's professional portfolio, offering learnings and insights into Business Analysis,
-Data Analytics, Data visualisation and in the future, Cybersecurity, Machine Learning and AI as well!
+  - Marie Tiang Nguyen-Khuong's professional portfolio, offering learnings and insights into Business Analysis,
+  - Data Analytics, Data visualisation and in the future, Cybersecurity, Machine Learning and AI as well!
 twitter_username: username
 github_username: Marie-Tiang-NK
 minimal_mistakes_skin: default
