@@ -1,8 +1,10 @@
-# Minimal Mistakes remote theme starter
+# Marie Tiang Nguyen-Khuong | Professional Portfolio
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-Contains basic configuration to get you a site with:
+Welcome to my professional poftfolio, where you will find my projects as well as insights & learnings on:
+* Business Analysis
+* Data Analytics
+* ...and more!
 
 - Sample posts.
 - Sample top navigation.
@@ -25,3 +27,11 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+## Credits
+
+Creator:
+Marie Tiang Nguyen-Khuong
+
+Contributions: 
+[Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
