@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marie Tiang Nguyen-Khuong Business Data Analysis Portfolio
+title: Marie Tiang Nguyen-Khuong Portfolio
 email: mtiang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   - Marie Tiang Nguyen-Khuong's professional portfolio, offering learnings and insights into Business Analysis,
-  - Data Analytics, Data visualisation and in the future, Cybersecurity, Machine Learning and AI as well!
+  - Business Analysis, Data Analytics, Data visualisation, Cybersecurity, Machine Learning and AI as well!
 twitter_username: username
 github_username: Marie-Tiang-NK
 minimal_mistakes_skin: default
@@ -61,18 +61,15 @@ author:
   avatar : "/assets/images/noun-analyst-3869065.svg"
   bio    : "Lifelong learner, sharing insights into Business Analysis, Data Analytics and other interesting stuff!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/marietiangnguyenkhuong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Marie-Tiang-NK/analyst-portfolio"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Marie-Tiang-NK/"
+    - label: "Tableau"
+      icon: "fab fa-fw fa-tableau"
+      url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 footer:
   links:
