@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Marie Tiang Nguyen-Khuong"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Lifelong learner, sharing insights into Business Analysis, Data Analytics and new technologies."
+  avatar : "/assets/images/noun-analyst-3869065.svg"
+  bio    : "Lifelong learner, sharing insights into Business Analysis, Data Analytics and other interesting stuff!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,15 +76,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/marietiangnguyenkhuong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Marie-Tiang-NK/"
+    - label: "Tableau"
+      icon: "fab fa-fw fa-tableau"
+      url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 defaults:
   # _posts
