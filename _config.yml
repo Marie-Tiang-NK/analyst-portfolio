@@ -67,8 +67,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marie-Tiang-NK/"
-    - label: "Tableau"
-      icon: "fab fa-fw fa-tableau"
+    - label: "Data Visualisation (Tableau)"
+      icon: "fa-duotone fa-chart-simple"
       url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 footer:
@@ -79,8 +79,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marie-Tiang-NK/"
-    - label: "Tableau"
-      icon: "fab fa-fw fa-tableau"
+    - label: "Data Visualisation (Tableau)"
+      icon: "fa-duotone fa-chart-simple"
       url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 defaults:
