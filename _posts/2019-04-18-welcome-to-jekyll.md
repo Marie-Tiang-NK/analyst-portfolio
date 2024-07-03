@@ -8,7 +8,7 @@ tags:
   - update
 hidden: true
 ---
-* Use this file as an example only
+* Keep this file as an example only
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -41,3 +41,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 First part of post
 excerpt_separator: "<!--more-->"
 Second part of post
+
+* How to use links
+* This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+
+> And this is how a quote looks.
+
+Some [link](#) can also be shown.
+
