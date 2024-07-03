@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marie-Tiang-NK/"
     - label: "Data Viz (Tableau)"
-      icon: /assets/images/MTNK.png
+      icon: "fab fa-chart-simple"
       url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 footer:
@@ -80,7 +80,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marie-Tiang-NK/"
     - label: "Data Viz (Tableau)"
-      icon: /assets/images/MTNK.png
+      icon: "fab fa-chart-simple"
       url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 defaults:
