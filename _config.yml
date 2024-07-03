@@ -16,8 +16,8 @@
 title: Marie Tiang Nguyen-Khuong Portfolio
 email: mtiang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  - Marie Tiang Nguyen-Khuong's professional portfolio, offering learnings and insights into Business Analysis,
-  - Business Analysis, Data Analytics, Data visualisation, Cybersecurity, Machine Learning and AI as well!
+   - Marie Tiang Nguyen-Khuong's professional portfolio, offering learnings and insights into
+   - Training, Business Analysis, Data Analytics, Data visualisation, Cybersecurity, Machine Learning and AI as well!
 twitter_username: username
 github_username: Marie-Tiang-NK
 minimal_mistakes_skin: default
@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marie-Tiang-NK/"
     - label: "Data Viz (Tableau)"
-      icon: "/assets/images/MTNK.png"
+      icon: /assets/images/MTNK.png
       url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 footer:
@@ -80,7 +80,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Marie-Tiang-NK/"
     - label: "Data Viz (Tableau)"
-      icon: "/assets/images/MTNK.png"
+      icon: /assets/images/MTNK.png
       url: "https://public.tableau.com/app/profile/marie.tiang/vizzes"
 
 defaults:
