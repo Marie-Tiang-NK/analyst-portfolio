@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 header: "/assets/images/grant-mciver-pmUEwPKL5IE-unsplash_1280.jpg"
-caption: "Photo credit: Photo by Grant McIver on https://unsplash.com/"
+caption: "Photo credit: Photo by Grant McIver on (https://unsplash.com/)"
 ---
 
 # Key skills:
