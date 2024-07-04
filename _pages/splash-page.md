@@ -2,7 +2,6 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-date: 2024-07-04T22:36:00+10:00
 header:
   overlay_image: /assets/images/grant-mciver-pmUEwPKL5IE-unsplash_1280.jpg
   excerpt:     
