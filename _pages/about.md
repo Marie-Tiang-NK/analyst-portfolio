@@ -4,6 +4,7 @@ title: "About"
 header: 
   overlay-image: "/assets/images/grant-mciver-pmUEwPKL5IE-unsplash_1280.jpg"
   caption: "Photo credit: Photo by Grant McIver on (https://unsplash.com/)"
+exerpt: "How to be a lifelong learner"
 ---
 
 # Key skills:
