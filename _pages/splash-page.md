@@ -4,7 +4,7 @@ layout: splash
 permalink: /splash-page/
 header:
   overlay_image: /assets/images/grant-mciver-pmUEwPKL5IE-unsplash_1280.jpg
-  excerpt:     
+  excerpt: "Test splash page"  
   caption: "Photo credit: Grant McIver(https://unsplash.com)"
 
 feature_row:
