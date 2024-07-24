@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/.bg-blue-electric.svg
+  overlay_image: /assets/images/bg-blue-electric.svg
 excerpt: >
   Test big words<br />
   <small>Small words</a></small>
